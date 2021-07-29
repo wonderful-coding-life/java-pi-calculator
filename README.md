@@ -53,3 +53,28 @@ Calculated PI = 3.141592663589326, time elapsed = 8603
 Calculated PI = 3.141592663589326, time elapsed = 8613
 Calculated PI = 3.141592663589326, time elapsed = 8624
 ```
+## ASUS ROG Zephyrus G14 / Windows 10 Home / AMD Ryzen 9 5900HS / RAM 16GB
+```
+Test Single-thread
+Calculated PI = 3.141592663589326, time elapsed = 3612
+Calculated PI = 3.141592663589326, time elapsed = 3608
+Calculated PI = 3.141592663589326, time elapsed = 3458
+Calculated PI = 3.141592663589326, time elapsed = 3455
+Calculated PI = 3.141592663589326, time elapsed = 3470
+Calculated PI = 3.141592663589326, time elapsed = 3457
+Calculated PI = 3.141592663589326, time elapsed = 3465
+Calculated PI = 3.141592663589326, time elapsed = 3460
+Calculated PI = 3.141592663589326, time elapsed = 3463
+Calculated PI = 3.141592663589326, time elapsed = 3458
+Test Multi-thread
+Calculated PI = 3.141592663589326, time elapsed = 3837
+Calculated PI = 3.141592663589326, time elapsed = 4110
+Calculated PI = 3.141592663589326, time elapsed = 4152
+Calculated PI = 3.141592663589326, time elapsed = 4292
+Calculated PI = 3.141592663589326, time elapsed = 4333
+Calculated PI = 3.141592663589326, time elapsed = 4393
+Calculated PI = 3.141592663589326, time elapsed = 4441
+Calculated PI = 3.141592663589326, time elapsed = 4856
+Calculated PI = 3.141592663589326, time elapsed = 4876
+Calculated PI = 3.141592663589326, time elapsed = 5001
+```
