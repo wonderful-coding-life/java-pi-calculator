@@ -3,7 +3,7 @@
 <https://terms.naver.com/entry.naver?docId=3350296&cid=60210&categoryId=60210>
 # 싱글 쓰레드와 멀티 쓰레드
 먼저 싱글 쓰레드로 10회 테스트를 하고, 멀티 쓰레드로 10개의 쓰레드를 만들어 테스트를 합니다.
-## Windows 10 Pro / Intel i7-7700K CPU @ 4.20GHz / RAM 16GB
+## 조립 데스크탑 컴퓨터 / Windows 10 Pro / Intel i7-7700K CPU @ 4.20GHz / RAM 16GB
 ```
 Test Single-thread
 Calculated PI = 3.141592663589326, time elapsed = 5315
@@ -27,4 +27,29 @@ Calculated PI = 3.141592663589326, time elapsed = 14048
 Calculated PI = 3.141592663589326, time elapsed = 14049
 Calculated PI = 3.141592663589326, time elapsed = 14011
 Calculated PI = 3.141592663589326, time elapsed = 14116
+```
+## MacBook Pro (Retina, 15-inch, Mid 2015) / Big Sur 11.1 / Intel i7 쿼드코어 CPU @ 2.8GHz / RAM 16GB
+```
+Test Single-thread
+Calculated PI = 3.141592663589326, time elapsed = 3951
+Calculated PI = 3.141592663589326, time elapsed = 3585
+Calculated PI = 3.141592663589326, time elapsed = 3537
+Calculated PI = 3.141592663589326, time elapsed = 3527
+Calculated PI = 3.141592663589326, time elapsed = 3508
+Calculated PI = 3.141592663589326, time elapsed = 3515
+Calculated PI = 3.141592663589326, time elapsed = 3509
+Calculated PI = 3.141592663589326, time elapsed = 3511
+Calculated PI = 3.141592663589326, time elapsed = 3509
+Calculated PI = 3.141592663589326, time elapsed = 3515
+Test Multi-thread
+Calculated PI = 3.141592663589326, time elapsed = 8582
+Calculated PI = 3.141592663589326, time elapsed = 8595
+Calculated PI = 3.141592663589326, time elapsed = 8602
+Calculated PI = 3.141592663589326, time elapsed = 8604
+Calculated PI = 3.141592663589326, time elapsed = 8596
+Calculated PI = 3.141592663589326, time elapsed = 8608
+Calculated PI = 3.141592663589326, time elapsed = 8611
+Calculated PI = 3.141592663589326, time elapsed = 8603
+Calculated PI = 3.141592663589326, time elapsed = 8613
+Calculated PI = 3.141592663589326, time elapsed = 8624
 ```
