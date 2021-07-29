@@ -78,3 +78,28 @@ Calculated PI = 3.141592663589326, time elapsed = 4856
 Calculated PI = 3.141592663589326, time elapsed = 4876
 Calculated PI = 3.141592663589326, time elapsed = 5001
 ```
+## Samsung NT900X5T / Windows 10 Home / Intel i7-8550U @ 1.80GHz 1.99GHz / RAM 16GB
+```
+Test Single-thread
+Calculated PI = 3.141592663589326, time elapsed = 7824
+Calculated PI = 3.141592663589326, time elapsed = 8721
+Calculated PI = 3.141592663589326, time elapsed = 7802
+Calculated PI = 3.141592663589326, time elapsed = 7435
+Calculated PI = 3.141592663589326, time elapsed = 7572
+Calculated PI = 3.141592663589326, time elapsed = 7630
+Calculated PI = 3.141592663589326, time elapsed = 9331
+Calculated PI = 3.141592663589326, time elapsed = 8389
+Calculated PI = 3.141592663589326, time elapsed = 7475
+Calculated PI = 3.141592663589326, time elapsed = 8053
+Test Multi-thread
+Calculated PI = 3.141592663589326, time elapsed = 19640
+Calculated PI = 3.141592663589326, time elapsed = 19671
+Calculated PI = 3.141592663589326, time elapsed = 19734
+Calculated PI = 3.141592663589326, time elapsed = 19672
+Calculated PI = 3.141592663589326, time elapsed = 19834
+Calculated PI = 3.141592663589326, time elapsed = 20348
+Calculated PI = 3.141592663589326, time elapsed = 20500
+Calculated PI = 3.141592663589326, time elapsed = 20500
+Calculated PI = 3.141592663589326, time elapsed = 20510
+Calculated PI = 3.141592663589326, time elapsed = 20616
+```
