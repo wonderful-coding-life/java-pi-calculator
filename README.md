@@ -103,3 +103,28 @@ Calculated PI = 3.141592663589326, time elapsed = 20500
 Calculated PI = 3.141592663589326, time elapsed = 20510
 Calculated PI = 3.141592663589326, time elapsed = 20616
 ```
+## HP Pavilion / Windows 10 Pro / Intel i7-860 @ 2.80GHz 2.80GHz / RAM 8GB
+```
+Test Single-thread
+Calculated PI = 3.141592663589326, time elapsed = 7821
+Calculated PI = 3.141592663589326, time elapsed = 7549
+Calculated PI = 3.141592663589326, time elapsed = 7548
+Calculated PI = 3.141592663589326, time elapsed = 7560
+Calculated PI = 3.141592663589326, time elapsed = 7511
+Calculated PI = 3.141592663589326, time elapsed = 7585
+Calculated PI = 3.141592663589326, time elapsed = 7533
+Calculated PI = 3.141592663589326, time elapsed = 7541
+Calculated PI = 3.141592663589326, time elapsed = 7555
+Calculated PI = 3.141592663589326, time elapsed = 7504
+Test Multi-thread
+Calculated PI = 3.141592663589326, time elapsed = 22064
+Calculated PI = 3.141592663589326, time elapsed = 22225
+Calculated PI = 3.141592663589326, time elapsed = 22538
+Calculated PI = 3.141592663589326, time elapsed = 22554
+Calculated PI = 3.141592663589326, time elapsed = 22576
+Calculated PI = 3.141592663589326, time elapsed = 22581
+Calculated PI = 3.141592663589326, time elapsed = 22709
+Calculated PI = 3.141592663589326, time elapsed = 22669
+Calculated PI = 3.141592663589326, time elapsed = 22838
+Calculated PI = 3.141592663589326, time elapsed = 22867
+```
