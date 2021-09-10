@@ -78,6 +78,31 @@ Calculated PI = 3.141592663589326, time elapsed = 4856
 Calculated PI = 3.141592663589326, time elapsed = 4876
 Calculated PI = 3.141592663589326, time elapsed = 5001
 ```
+## HP VICTUS 16 / Windows 10 Home / AMD Ryzen 7 5800H / RAM 8GB
+```
+Test Single-thread
+Calculated PI = 3.141592663589326, time elapsed = 3920
+Calculated PI = 3.141592663589326, time elapsed = 3953
+Calculated PI = 3.141592663589326, time elapsed = 3740
+Calculated PI = 3.141592663589326, time elapsed = 3725
+Calculated PI = 3.141592663589326, time elapsed = 3755
+Calculated PI = 3.141592663589326, time elapsed = 3731
+Calculated PI = 3.141592663589326, time elapsed = 3719
+Calculated PI = 3.141592663589326, time elapsed = 3690
+Calculated PI = 3.141592663589326, time elapsed = 3775
+Calculated PI = 3.141592663589326, time elapsed = 3663
+Test Multi-thread
+Calculated PI = 3.141592663589326, time elapsed = 4119
+Calculated PI = 3.141592663589326, time elapsed = 4166
+Calculated PI = 3.141592663589326, time elapsed = 4338
+Calculated PI = 3.141592663589326, time elapsed = 4619
+Calculated PI = 3.141592663589326, time elapsed = 4682
+Calculated PI = 3.141592663589326, time elapsed = 4791
+Calculated PI = 3.141592663589326, time elapsed = 4807
+Calculated PI = 3.141592663589326, time elapsed = 5213
+Calculated PI = 3.141592663589326, time elapsed = 5463
+Calculated PI = 3.141592663589326, time elapsed = 5707
+```
 ## Samsung NT900X5T / Windows 10 Home / Intel i7-8550U @ 1.80GHz 1.99GHz / RAM 16GB
 ```
 Test Single-thread
