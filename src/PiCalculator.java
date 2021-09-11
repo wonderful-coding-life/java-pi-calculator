@@ -1,4 +1,10 @@
 public class PiCalculator extends Thread {
+    private PiCallback callback;
+
+    public PiCalculator(PiCallback callback) {
+        this.callback = callback;
+    }
+
     public void run() {
         double Pi = 0.0;
         long start = System.currentTimeMillis();
@@ -7,5 +13,6 @@ public class PiCalculator extends Thread {
         }
         long stop = System.currentTimeMillis();
         System.out.println("Calculated PI = " + (Pi * 4) + ", time elapsed = " + (stop-start));
+        callback.elapsed(stop - start);
     }
 }

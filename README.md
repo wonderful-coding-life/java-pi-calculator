@@ -153,3 +153,30 @@ Calculated PI = 3.141592663589326, time elapsed = 22669
 Calculated PI = 3.141592663589326, time elapsed = 22838
 Calculated PI = 3.141592663589326, time elapsed = 22867
 ```
+## HP Pavilion / Windows 10 Home / Intel i5-750 @ 2.67GHz 2.67GHz / RAM 12GB
+```
+Test Single-thread
+Calculated PI = 3.141592663589326, time elapsed = 8038
+Calculated PI = 3.141592663589326, time elapsed = 7759
+Calculated PI = 3.141592663589326, time elapsed = 7687
+Calculated PI = 3.141592663589326, time elapsed = 7676
+Calculated PI = 3.141592663589326, time elapsed = 7679
+Calculated PI = 3.141592663589326, time elapsed = 7677
+Calculated PI = 3.141592663589326, time elapsed = 7676
+Calculated PI = 3.141592663589326, time elapsed = 7687
+Calculated PI = 3.141592663589326, time elapsed = 7667
+Calculated PI = 3.141592663589326, time elapsed = 7680
+average = 7722
+Test Multi-thread
+Calculated PI = 3.141592663589326, time elapsed = 21677
+Calculated PI = 3.141592663589326, time elapsed = 21689
+Calculated PI = 3.141592663589326, time elapsed = 21701
+Calculated PI = 3.141592663589326, time elapsed = 21715
+Calculated PI = 3.141592663589326, time elapsed = 21722
+Calculated PI = 3.141592663589326, time elapsed = 21698
+Calculated PI = 3.141592663589326, time elapsed = 21696
+Calculated PI = 3.141592663589326, time elapsed = 21649
+Calculated PI = 3.141592663589326, time elapsed = 21568
+Calculated PI = 3.141592663589326, time elapsed = 21502
+average = 21661
+```
