@@ -6,27 +6,29 @@
 ## 조립 데스크탑 컴퓨터 / Windows 10 Pro / Intel i7-7700K CPU @ 4.20GHz / RAM 16GB
 ```
 Test Single-thread
-Calculated PI = 3.141592663589326, time elapsed = 5315
-Calculated PI = 3.141592663589326, time elapsed = 5232
-Calculated PI = 3.141592663589326, time elapsed = 5263
-Calculated PI = 3.141592663589326, time elapsed = 5248
-Calculated PI = 3.141592663589326, time elapsed = 5290
-Calculated PI = 3.141592663589326, time elapsed = 5245
-Calculated PI = 3.141592663589326, time elapsed = 5265
-Calculated PI = 3.141592663589326, time elapsed = 5270
-Calculated PI = 3.141592663589326, time elapsed = 5252
-Calculated PI = 3.141592663589326, time elapsed = 5271
+Calculated PI = 3.141592663589326, time elapsed = 5799
+Calculated PI = 3.141592663589326, time elapsed = 5640
+Calculated PI = 3.141592663589326, time elapsed = 5652
+Calculated PI = 3.141592663589326, time elapsed = 5662
+Calculated PI = 3.141592663589326, time elapsed = 5729
+Calculated PI = 3.141592663589326, time elapsed = 5650
+Calculated PI = 3.141592663589326, time elapsed = 5652
+Calculated PI = 3.141592663589326, time elapsed = 5785
+Calculated PI = 3.141592663589326, time elapsed = 5866
+Calculated PI = 3.141592663589326, time elapsed = 5806
+average = 5724
 Test Multi-thread
-Calculated PI = 3.141592663589326, time elapsed = 13748
-Calculated PI = 3.141592663589326, time elapsed = 13789
-Calculated PI = 3.141592663589326, time elapsed = 13791
-Calculated PI = 3.141592663589326, time elapsed = 13846
-Calculated PI = 3.141592663589326, time elapsed = 13924
-Calculated PI = 3.141592663589326, time elapsed = 13972
-Calculated PI = 3.141592663589326, time elapsed = 14048
-Calculated PI = 3.141592663589326, time elapsed = 14049
-Calculated PI = 3.141592663589326, time elapsed = 14011
-Calculated PI = 3.141592663589326, time elapsed = 14116
+Calculated PI = 3.141592663589326, time elapsed = 11232
+Calculated PI = 3.141592663589326, time elapsed = 11235
+Calculated PI = 3.141592663589326, time elapsed = 11262
+Calculated PI = 3.141592663589326, time elapsed = 11193
+Calculated PI = 3.141592663589326, time elapsed = 14913
+Calculated PI = 3.141592663589326, time elapsed = 14917
+Calculated PI = 3.141592663589326, time elapsed = 14941
+Calculated PI = 3.141592663589326, time elapsed = 14977
+Calculated PI = 3.141592663589326, time elapsed = 14971
+Calculated PI = 3.141592663589326, time elapsed = 15038
+average = 13467
 ```
 ## MacBook Pro (Retina, 15-inch, Mid 2015) / Big Sur 11.1 / Intel i7 쿼드코어 CPU @ 2.8GHz / RAM 16GB
 ```
