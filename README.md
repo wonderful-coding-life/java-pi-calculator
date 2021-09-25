@@ -55,6 +55,33 @@ Calculated PI = 3.141592663589326, time elapsed = 8603
 Calculated PI = 3.141592663589326, time elapsed = 8613
 Calculated PI = 3.141592663589326, time elapsed = 8624
 ```
+## MacBook Air M1 (Retina, 13-inch, 2020 M1) / Big Sur 11.6 / Apple Silicon M1 / RAM 8GB
+```
+Test Single-thread
+Calculated PI = 3.141592663589326, time elapsed = 7748
+Calculated PI = 3.141592663589326, time elapsed = 7759
+Calculated PI = 3.141592663589326, time elapsed = 7781
+Calculated PI = 3.141592663589326, time elapsed = 7740
+Calculated PI = 3.141592663589326, time elapsed = 7760
+Calculated PI = 3.141592663589326, time elapsed = 7849
+Calculated PI = 3.141592663589326, time elapsed = 7783
+Calculated PI = 3.141592663589326, time elapsed = 7802
+Calculated PI = 3.141592663589326, time elapsed = 7757
+Calculated PI = 3.141592663589326, time elapsed = 7748
+average = 7772
+Test Multi-thread
+Calculated PI = 3.141592663589326, time elapsed = 12529
+Calculated PI = 3.141592663589326, time elapsed = 12539
+Calculated PI = 3.141592663589326, time elapsed = 12559
+Calculated PI = 3.141592663589326, time elapsed = 12574
+Calculated PI = 3.141592663589326, time elapsed = 12582
+Calculated PI = 3.141592663589326, time elapsed = 12565
+Calculated PI = 3.141592663589326, time elapsed = 12592
+Calculated PI = 3.141592663589326, time elapsed = 12600
+Calculated PI = 3.141592663589326, time elapsed = 12600
+Calculated PI = 3.141592663589326, time elapsed = 12577
+average = 12571
+```
 ## ASUS ROG Zephyrus G14 / Windows 10 Home / AMD Ryzen 9 5900HS / RAM 16GB
 ```
 Test Single-thread
